@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/exwer/mini-pack.git"
+    "url": "git+https://github.com/KurobaRemu/mini-pack.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/exwer/mini-pack/issues"
+    "url": "https://github.com/KurobaRemu/mini-pack/issues"
   },
-  "homepage": "https://github.com/exwer/mini-pack#readme",
+  "homepage": "https://github.com/KurobaRemu/mini-pack#readme",
   "dependencies": {
     "@babel/core": "^7.17.9",
     "@babel/parser": "^7.17.8",
